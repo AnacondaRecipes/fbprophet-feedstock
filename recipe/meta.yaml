@@ -1,8 +1,8 @@
 {% set name = "fbprophet" %}
-{% set version = "0.3.post2" %}
+{% set version = "0.7.1" %}
 {% set bundle = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "4f51d3a81bf86fbbb8caeb707747e9ae22c7705aff36f2556b8d03149e2b0761" %}
+{% set hash = "3ac63a05caf5117d9c6ed83fa6f9d4ffc207b60a56854c905f2789d8a89c2b6f" %}
 {% set build = 0 %}
 
 package:
